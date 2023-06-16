@@ -1,0 +1,3 @@
+rule1.name=Example Rule
+rule1.condition=ruleEngine.isAdult(person)
+rule1.action=calculateAge(person)
